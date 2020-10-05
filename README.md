@@ -2,4 +2,4 @@
 ## Collection de vinyles
 ### URL : [https://alexandrewa.github.io/aktuel/](https://alexandrewa.github.io/aktuel/)
 # OU
-### URL : [alexandrewa.com](aktuel.alexandrewa.com)
+### URL : [aktuel.alexandrewa.com](aktuel.alexandrewa.com)
